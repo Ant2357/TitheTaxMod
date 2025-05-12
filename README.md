@@ -9,6 +9,6 @@
 >
 > ヤコブは誓願を立てた。「神が私とともにおられて、私が行くこの旅路を守り、食べるパンと着る衣を下さり、無事に父の家に帰らせてくださるなら、主は私の神となり、石の柱として立てたこの石は神の家となります。私は、すべてあなたが私に下さる物の十分の一を必ずあなたに献げます。」
 
-This is a MOD that replaces the Elin tax rate with a tenths tax.
+This is a Mod to change Elin's tax rate to a tenths tax.
 
-これは、Elin の税率を 10 分の 1 の税率に置き換える MOD です。
+これは、Elin の税率を十分の一税に変更する Mod です。
