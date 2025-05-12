@@ -43,10 +43,6 @@ class ScenePatch
         {
             Msg.NewLine();
             Msg.SayRaw("=== Tithe Tax Mod ===");
-
-            Msg.NewLine();
-            int money = EClass.pc.GetCurrency();
-            Msg.SayRaw("現在の所持金は " + money + " オレンです。");
         }
     }
 }
