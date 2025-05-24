@@ -2,7 +2,7 @@ using System;
 using BepInEx;
 using HarmonyLib;
 
-[BepInPlugin("ant2357.tithe_tax_mod", "Tithe Tax Mod", "1.0.1")]
+[BepInPlugin("ant2357.tithe_tax_mod", "Tithe Tax Mod", "1.1.0")]
 public class Plugin : BaseUnityPlugin
 {
     private void Awake()
@@ -29,7 +29,7 @@ public static class GetFameTaxPatch
     private static void Postfix(ref int __result, bool evasion)
     {
         float playerMoney = EClass.pc.GetCurrency();
-        __result = (int)Math.Floor(playerMoney / 10f);
+        __result = Math.Max(1, (int)Math.Floor(playerMoney / 10f));
     }
 }
 
