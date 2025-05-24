@@ -14,3 +14,9 @@
 This is a Mod to change Elin's tax rate to a tenths tax.
 
 これは、Elin の税率を十分の一税に変更する Mod です。
+
+## [Updating information Ver. 1.1.0]
+・A correction has been made to prevent the generation of invoices for 0 Oren.
+
+## [更新情報 Ver 1.1.0]
+・0 オレンの請求書が生成されないよう修正を行いました。
