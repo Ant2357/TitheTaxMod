@@ -2,7 +2,7 @@ using System;
 using BepInEx;
 using HarmonyLib;
 
-[BepInPlugin("ant2357.tithe_tax_mod", "Tithe Tax Mod", "1.1.0")]
+[BepInPlugin("ant2357.tithe_tax_mod", "Tithe Tax Mod", "1.1.1")]
 public class Plugin : BaseUnityPlugin
 {
     private void Awake()
