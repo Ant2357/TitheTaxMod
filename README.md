@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">
-  TitheTaxMod
+  Tithe Tax Mod
 </h2>
 
 <div align="center">
